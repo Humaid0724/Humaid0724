@@ -1,0 +1,17 @@
+Space Duel is an exciting two-player spaceship battle game built using Pygame, where players control their respective spaceships in a dynamic arena. The objective is to outmaneuver and outshoot the opponent while managing health and ammunition.
+
+Gameplay:
+Players can move their ships in all directions and fire bullets using the designated control keys, creating an engaging and competitive experience. The game features vibrant graphics, sound effects, and an intuitive user interface, making it accessible to players of all ages.
+
+Controls:
+Yellow Spaceship:
+Move: Use the WASD keys.
+Shoot: Press the Left Ctrl key.
+
+Red Spaceship:
+Move: Use the Arrow keys.
+Shoot: Press the Right Ctrl key.
+
+Win Condition:
+The game has a win condition based on health depletion, where players strive for victory by skillfully dodging attacks and landing shots.
+Space Duel offers endless fun and serves as an excellent introduction to game development with Python.
