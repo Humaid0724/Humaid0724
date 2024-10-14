@@ -14,4 +14,6 @@ Shoot: Press the Right Ctrl key.
 
 Win Condition:
 The game has a win condition based on health depletion, where players strive for victory by skillfully dodging attacks and landing shots.
-Space Duel offers endless fun and serves as an excellent introduction to game development with Python.
+Space Duel offers endless fun and an excellent introduction to game development with Python.
+
+PS: You need to install PyGame Library to try out this game.
