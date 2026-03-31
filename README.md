@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Humaid Mohammed</h1>
 
-1st Year Student at Heriot-Watt University
+2nd Year Student at Heriot-Watt University
 
 Currently open to learning new things and exploring new opportunities!
 
